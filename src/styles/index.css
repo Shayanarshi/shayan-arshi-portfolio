@@ -994,7 +994,25 @@ main { flex: 1; }
 
   .mobile-nav-cta { margin-top: 8px; }
 
-  .hero-section { padding: 56px 24px 60px; }
+              .hero-section {
+              min-height: auto;
+              padding: 32px 24px 48px;
+              align-items: flex-start;
+            }
+
+            .hero-content-wrapper {
+              gap: 0;
+            }
+
+            .hero-inner {
+              width: 100%;
+              min-width: 0;
+            }
+
+
+
+
+
   .hero-title { font-size: 2rem; }
 
   .work-container,
