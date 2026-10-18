@@ -1,16 +1,21 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Shayan Arshi — Portfolio
 
-Currently, two official plugins are available:
+Personal portfolio showcasing my skills, projects, and experience as a Java Full Stack Developer.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Tech Stack
+Java, Spring Boot, Spring MVC, Spring Data JPA, SQL, React.js, HTML, CSS, Git, Maven, and Postman.
 
-## React Compiler
+## Featured Projects
+- **Employee Management System:** Java, Spring Boot, MySQL, Thymeleaf.
+- **Mainline E-Commerce:** React.js, Vite, Tailwind CSS.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+**Live Demo:** [Mainline](https://mainline-e-commerce-platform.vercel.app/)
 
-## Expanding the ESLint configuration
+## Training
+Full Stack Java Trainee at Ashok IT, Hyderabad.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Contact
+- Email: arshishayan@gmail.com
+- [GitHub](https://github.com/Shayanarshi)
+- [LinkedIn](https://linkedin.com/in/shayanarshi)
